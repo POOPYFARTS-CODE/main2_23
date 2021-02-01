@@ -1,0 +1,100 @@
+body{
+  margin: 20px 80px 0% 80px;
+  background-color: #333333;
+}
+/*-------------------------*/
+.header{
+  height: 50vh;
+  background-color: #ff971d;
+  text-align: center;
+  margin: 20px 80px 0% 80px;
+  border-radius: 4px;
+}
+.nav{
+  height: 10vh;
+  background-color: #f9f6f7;
+}
+.help div p{
+  margin-left: 20vh;
+}
+.nav p{
+  padding-left: 10px;
+  padding-top: 15px;
+  font-weight: 600;
+  font-size: 20px;
+}
+/*-------------------------*/
+.um-card {
+  width: 170px;
+  height: 160px;
+  box-sizing: border-box;
+  padding: 2em;
+  border: 1px transparent;
+  border-radius: 25px;
+  color: white;
+  line-height: 25px;
+  box-shadow: 5px 5px 10px #ccc;
+  float: left;
+  margin-right: 1em;
+  margin-left: 80px;
+  margin-top: 40px;
+  color: #000000;
+  transition: all 0.4s;
+  cursor: pointer;
+}
+.supreme img{
+  margin-top: 25%;
+}
+.shopify img{
+  margin-bottom: 15%;
+}
+.um-card:hover{
+  width: 180px;
+}
+.card_site{
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+  margin-top: 40px;
+  height: 50vh;
+}
+.available-sites{
+  height: 400px;
+  margin-left: 5%;
+}
+.txt{
+  padding-top: 20px;
+  text-align: center;
+}
+.help div{
+  text-align: center;
+}
+.help div a{
+  text-decoration: none;
+  color: aqua;
+  transition: all 0.4s;
+}
+.help div a:hover{
+  text-decoration: underline;
+}
+.nike{
+  transition: all 0.4s;
+}
+.nike a{
+  color: #000000;
+  text-decoration: none;
+}
+
+
+.adidas a{
+  color: #000000;
+  text-decoration: none;
+}
+.easter{
+  height: 40px;
+}
+
+.supreme a{
+  color: #000000;
+  text-decoration: none;
+}
