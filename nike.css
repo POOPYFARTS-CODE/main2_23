@@ -1,0 +1,22 @@
+.h1{
+  text-align: center;
+}
+
+.h1 p{
+  font-size: 70px;
+}
+.inp input{
+  margin-left: 25%;
+  width: 40%;
+}
+.inp button{
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  margin-top: 1%;
+  height: 35px;
+  transition: all 0.4s;
+}
+.inp button:hover{
+  background-color: black;
+  color: #ffffff;
+}
